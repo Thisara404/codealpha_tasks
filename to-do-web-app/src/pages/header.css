@@ -1,0 +1,21 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.header-info h1 {
+  font-size: 1.8rem;
+  margin-bottom: 5px;
+}
+
+.header-info p {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 0;
+}
+
+.header-time h1 {
+  font-size: 1.8rem;
+}
